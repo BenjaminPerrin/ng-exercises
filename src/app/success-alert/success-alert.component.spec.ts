@@ -8,9 +8,9 @@ describe('SuccessAlertComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ SuccessAlertComponent ]
+      declarations: [SuccessAlertComponent],
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {
